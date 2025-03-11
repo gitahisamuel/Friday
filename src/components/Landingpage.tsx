@@ -224,7 +224,7 @@ export default function EventManagementLanding() {
               </div>
               <div className="group relative overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=600&width=800"
+                  src="/hiking.jpg?height=600&width=800"
                   alt="Hiking"
                   width={800}
                   height={600}
@@ -242,7 +242,7 @@ export default function EventManagementLanding() {
               </div>
               <div className="group relative overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=600&width=800"
+                  src="/outdoors.jpg?height=600&width=800"
                   alt="Social Gatherings"
                   width={800}
                   height={600}
